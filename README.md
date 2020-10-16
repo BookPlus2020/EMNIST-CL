@@ -7,3 +7,6 @@ Link: https://pan.baidu.com/s/1EWmjKdF6CUoMCarlulC6iQ   Extraction Code: naj1
 
 
 We  really appreciate the work from "Cohen, G., Afshar, S., Tapson, J., & van Schaik, A. (2017). EMNIST: an extension of MNIST to handwritten letters".
+
+If you use the database, please remember to cite the paper: 
+"Chen C L P , Wang B . Random-Positioned License Plate Recognition Using Hybrid Broad Learning System and Convolutional Networks[J]. IEEE Transactions on Intelligent Transportation Systems, 2020, PP(99):1-13."
